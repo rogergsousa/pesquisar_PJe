@@ -1,0 +1,13 @@
+# Arquivos e pastas ignorados pelo Git
+*.pyc
+__pycache__/
+.venv/
+*.env
+dist/
+build/
+*.pyo
+*.log
+*.sqlite3
+*.xlsx
+resource/
+*.png

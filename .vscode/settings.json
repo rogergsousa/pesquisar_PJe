@@ -1,0 +1,9 @@
+{
+    "terminal.integrated.env.windows": {
+      "PATH": "${dir}&&.venv\\Scripts;${env:PATH}"
+    },
+    "code-runner.executorMap": {
+      "python": "${dir}&&.venv\\Scripts\\python.exe"
+    },
+    "code-runner.runInTerminal": true
+  }
